@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    background-color: slategrey;
+}
+.nav-title{
+    color: snow;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.nav-links{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    /* margin-left: 400px; */
+    
+}
+button{
+    color: white;
+    background-color: aqua;
+    box-shadow: black 2px 2px;
+}
+a{
+    text-decoration: none;
+    color:whitesmoke;
+    
+}
